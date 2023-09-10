@@ -17,7 +17,7 @@ const App = () => {
       <View>
         <Text>{name}</Text>
         <Text>
-          Hello worlddd, this isss {name} {name2}
+          Hello worlddd, this ss {name} {name2}
         </Text>
 
         {age >= 20 ? (
